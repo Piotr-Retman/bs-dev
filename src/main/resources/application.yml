@@ -1,0 +1,10 @@
+spring:
+  banner:
+    location: banner.txt
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  pattern:
+    console:
+
